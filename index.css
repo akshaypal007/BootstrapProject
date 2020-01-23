@@ -1,0 +1,148 @@
+.navbar
+{
+	font-family: Kaushan Script;
+}
+
+.navbar-header>a
+{
+	font-size: 21px;
+	font-style: italic;
+	font-weight: bold;
+	font-family: Permanent Marker;
+}
+
+#body
+{
+	background-color: rgba(0,0,0,0.07);
+}
+
+.image
+{
+	margin-top: 25px;
+}
+
+#well
+{
+	font-family: Satisfy;
+}
+
+.buton
+{
+	border-style: none;
+	line-height: 30px;
+	margin-top: 10px;
+	background-color: rgba(0,0,0,0);
+	color: white;
+}
+
+.aboutus1, .aboutus2
+{
+	font-family: Satisfy;
+}
+
+.para
+{
+	font-size: 18px;
+	word-spacing: 7px;
+	line-height: 35px;
+	color: gray;
+	text-align: justify;
+	font-family: Satisfy;
+}
+
+#ourgalary
+{
+	font-family: Satisfy;
+}
+
+#ourservices
+{
+	font-family: Satisfy;
+}
+
+.servicepara
+{
+	font-family: Satisfy;
+}
+
+#photo:hover
+{
+	-ms-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+}
+
+.service
+{
+	height: 320px;
+	width: 280px;
+	border:2px solid black;
+}
+
+.servicepara
+{
+	font-size: 15px;
+	line-height: 25px;
+	color: gray;
+	text-align: justify;	
+}
+
+.servicediv
+{
+	border: 1px solid gray;
+	border-radius: 20px;
+	padding-left: 5px;
+	padding-right: 5px;
+	margin-top: 25px;
+	background-color: lightyellow;
+}
+
+#views
+{
+	font-family: Satisfy;
+}
+
+#pplsaypara
+{
+	font-size: 16px;
+	line-height: 25px;
+	color: gray;
+	text-align: justify;
+	font-family: Satisfy;
+}
+
+#meet
+{
+	font-family: Satisfy;
+}
+
+.meetdiv
+{
+	border:1px solid white;
+	background-color: white;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top: 25px;
+	font-family: Satisfy;
+}
+
+.meetdiv2
+{
+	border: 1px solid gray;
+	padding-left: 10px;
+	padding-right: 10px; 
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.buy
+{
+	padding-top: 60px;
+	padding-bottom: 30px;
+}
+
+.address
+{
+	font-style: italic;
+	font-weight: bold;
+}
